@@ -5,7 +5,6 @@ Application made with react native in expo.
 
 To start you must first execute the command:
 
-* npm
   ```sh
   npm i
   ```
@@ -15,7 +14,6 @@ To start you must first execute the command:
 
 To run the project you must run the following command:
 
-* npm
   ```sh
   npm run start
   ```
